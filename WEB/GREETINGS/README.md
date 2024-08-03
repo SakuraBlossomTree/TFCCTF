@@ -1,11 +1,11 @@
-To deploy the site
+The challenge gives us a container
 
-Have nodejs and npm installed
+Which has a single webpage
 
-Then install express and ejs
+When entered the username it redirects the page to /result?username="Enter username"
 
-```npm install express ejs```
+I was able to get XSS script vuln on the website but it was no use as there were no cookies
 
-Deploy the server
+I was able to file inclusion but there were no other files in the web server
 
-node server.js
+TODO
