@@ -1,4 +1,5 @@
 ./WEB/GREETINGS/challenge/node_modules
+./WEB/GREETINGS/challenge/packge-lock.json
 *.log
 .DS_Store
 
