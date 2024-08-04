@@ -1,4 +1,4 @@
-node_modules/
+./WEB/GREETINGS/challenge/node_modules
 *.log
 .DS_Store
 
