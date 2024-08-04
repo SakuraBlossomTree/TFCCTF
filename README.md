@@ -1,5 +1,7 @@
 Solutions for the challs I solved in TFCCTF 2024
 
+### The WEB challenge and REVERSE are not ready yet
+
 Each for the challemges are divided into categories
 
 The README.md file for each challenge the Title and description for the challenge
